@@ -1,9 +1,11 @@
 import './styles.css';
 
 document.getElementById('app').innerHTML = `
-<h1>Hello Vanilla!</h1>
+<h1>Ramda Lens Crossover Guide!</h1>
 <div>
-  We use Parcel to bundle this sandbox, you can find more info about Parcel
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
+  This sandbox's value is in it's test file NOT what you see here.
+  <br />
+  <br />
+  Click the "Tests" tab below to see what this is all about.
 </div>
 `;
